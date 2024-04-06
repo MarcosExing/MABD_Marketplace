@@ -1,0 +1,7 @@
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\ConsoleTest\obj\Debug\ConsoleTest.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\ConsoleTest\obj\Debug\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\ConsoleTest\obj\Debug\ConsoleTest.pdb

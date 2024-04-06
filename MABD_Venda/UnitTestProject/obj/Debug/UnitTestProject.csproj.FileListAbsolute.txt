@@ -1,0 +1,48 @@
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\bin\Debug\ConsoleTest.exe
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\bin\Debug\DAL.dll
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\bin\Debug\DBConnection.dll
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\bin\Debug\Model.dll
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\bin\Debug\ConsoleTest.pdb
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\bin\Debug\ConsoleTest.exe.config
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\bin\Debug\DAL.pdb
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\bin\Debug\DBConnection.pdb
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\bin\Debug\Model.pdb
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\bin\Debug\ConsoleTest.exe
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\bin\Debug\DAL.dll
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\bin\Debug\DBConnection.dll
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\bin\Debug\Model.dll
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\bin\Debug\ConsoleTest.pdb
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\bin\Debug\ConsoleTest.exe.config
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\bin\Debug\DAL.pdb
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\bin\Debug\DBConnection.pdb
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\bin\Debug\Model.pdb
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\UnitTestProject\obj\Debug\UnitTestProject.pdb

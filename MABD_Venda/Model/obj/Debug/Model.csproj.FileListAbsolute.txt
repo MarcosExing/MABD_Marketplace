@@ -1,0 +1,12 @@
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\Model\bin\Debug\Model.dll
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\Model\bin\Debug\Model.pdb
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\Model\obj\Debug\Model.dll
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\Model\obj\Debug\Model.pdb
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\Model\bin\Debug\Model.dll
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\Model\bin\Debug\Model.pdb
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\Model\obj\Debug\Model.dll
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\Model\obj\Debug\Model.pdb

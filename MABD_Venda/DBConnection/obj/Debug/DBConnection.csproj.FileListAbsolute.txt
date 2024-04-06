@@ -1,0 +1,12 @@
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\DBConnection\bin\Debug\DBConnection.dll
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\DBConnection\obj\Debug\DBConnection.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\DBConnection\obj\Debug\DBConnection.dll
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\DBConnection\obj\Debug\DBConnection.pdb
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\DBConnection\bin\Debug\DBConnection.dll
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\DBConnection\obj\Debug\DBConnection.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\DBConnection\obj\Debug\DBConnection.dll
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\DBConnection\obj\Debug\DBConnection.pdb

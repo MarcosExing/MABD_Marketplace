@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/baseline_home_24"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_endereco"
+            android:icon="@drawable/ic_baseline_maps_home_work_24"
+            android:title="@string/menu_endereco" />
+        <item
+            android:id="@+id/nav_cliente"
+            android:icon="@drawable/ic_baseline_person_24"
+            android:title="@string/menu_cliente" />
+        <item
+            android:id="@+id/nav_vendedor"
+            android:icon="@drawable/ic_baseline_business_24"
+            android:title="@string/menu_vendedor" />
+        <item
+            android:id="@+id/nav_categoria"
+            android:icon="@drawable/ic_baseline_class_24"
+            android:title="@string/menu_categoria" />
+        <item
+            android:id="@+id/nav_produto"
+            android:icon="@drawable/ic_baseline_devices2_24"
+            android:title="@string/menu_produto" />
+        <item
+            android:id="@+id/nav_carrinho"
+            android:icon="@drawable/ic_baseline_local_grocery_store_24"
+            android:title="@string/menu_carrinho" />
+        <!--<item
+            android:id="@+id/nav_test"
+            android:icon="@drawable/ic_baseline_web_stories_24"
+            android:title="@string/menu_test" />-->
+    </group>
+</menu>

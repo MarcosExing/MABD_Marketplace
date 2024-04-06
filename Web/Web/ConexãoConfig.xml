@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<StringsConexao>
+	<String1>Data Source=DESKTOP-DG0SQ7G\SQLEXPRESS;Initial Catalog=BD_MARKETPLACE;Integrated Security=True; Min Pool Size=5;Max Pool Size=250; Connect Timeout=3</String1>
+</StringsConexao>

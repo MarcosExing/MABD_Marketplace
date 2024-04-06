@@ -1,0 +1,224 @@
+<resources>
+    <string name="app_name">MABD-Vendas (APP)</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Marcos Martins Damaceno</string>
+    <string name="nav_header_subtitle">Protótipo da interface do MABD (versão Android)</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_endereco">Endereços</string>
+    <string name="menu_cliente">Clientes</string>
+    <string name="menu_vendedor">Vendedores</string>
+    <string name="menu_categoria">Categorias</string>
+    <string name="menu_produto">Produtos</string>
+    <string name="menu_carrinho">Carrinhos</string>
+    <string name="menu_test">Test</string>
+
+    <!-- TODO: common resources -->
+    <string name="input_type_password">text|textPassword</string>
+    <string name="input_type_number">number</string>
+    <string name="input_type_number_decimal">number|numberDecimal</string>
+    <string name="input_type_email">text|textWebEmailAddress|textAutoComplete</string>
+    <string name="button_adicionar">Adicionar</string>
+    <string name="button_confirmar">Confirmar</string>
+    <string name="button_voltar">Voltar</string>
+    <string name="button_editar">Editar</string>
+    <string name="button_detalhes">Detalhes</string>
+    <string name="button_deletar">Deletar</string>
+    <string name="id_text">ID:</string>
+    <string name="endereco_text2">Endereço:</string>
+    <string name="endereco_select_text_placeholder">Endereço selecionado</string>
+    <string name="endereco_error_null_text">É necessário selecionar um endereço!</string>
+    <string name="endereco_error_unavailable_text">Nenhum endereço disponível!</string>
+    <string name="endereco_text3">Endereço</string>
+    <string name="detalhes_cep_text">Cep:</string>
+    <string name="detalhes_cidade_text">Cidade:</string>
+    <string name="detalhes_estado_text">Estado:</string>
+    <string name="detalhes_rua_text">Rua:</string>
+    <string name="detalhes_bairro_text">Bairro:</string>
+    <string name="categoria_input_placeholder">Informação da categoria</string>
+    <string name="vendedor_text2">Vendedor</string>
+    <string name="vendedor_input_placeholder">Informação do vendedor</string>
+    <string name="detalhes_razaosocial_text">Razão Social:</string>
+    <string name="detalhes_nomefantasia_text">Nome Fantasia:</string>
+    <string name="detalhes_cnpj_text">Cnpj:</string>
+    <string name="detalhes_email_text">E-mail:</string>
+    <string name="detalhes_senha_text">Senha:</string>
+    <string name="detalhes_comissao_text">Comissão:</string>
+    <string name="produto_text2">Produto</string>
+    <string name="detalhes_categoria_text">Categoria:</string>
+    <string name="detalhes_descricao_text">Descrição:</string>
+    <string name="detalhes_preco_text">Preço:</string>
+    <string name="detalhes_status_produto_text">Status do Produto:</string>
+    <string name="list_item_text_placeholder">Informações do item</string>
+
+    <string name="home_text">CRUD do MABD (Mecanismo de Acesso ao Banco de Dados) - Vendas</string>
+    <string name="home_description">Esta aplicação tem como objetivo oferecer as operações CRUD para o banco de dados com o escopo vendas.</string>
+    <string name="home_text_EnderecoCRUD">Endereço CRUD</string>
+    <string name="home_description_EnderecoCRUD">Permite realizar as operações CRUD com os endereços.</string>
+    <string name="home_button_EnderecoCRUD">Endereço</string>
+    <string name="home_text_ClienteCRUD">Cliente CRUD</string>
+    <string name="home_description_ClienteCRUD">Permite realizar as operações CRUD com os clientes.</string>
+    <string name="home_button_ClienteCRUD">Cliente</string>
+    <string name="home_text_VendedorCRUD">Vendedor CRUD</string>
+    <string name="home_description_VendedorCRUD">Permite realizar as operações CRUD com os vendedores.</string>
+    <string name="home_button_VendedorCRUD">Vendedor</string>
+    <string name="home_text_CategoriaCRUD">Categoria CRUD</string>
+    <string name="home_description_CategoriaCRUD">Permite realizar as operações CRUD com as categorias.</string>
+    <string name="home_button_CategoriaCRUD">Categoria</string>
+    <string name="home_text_ProdutoCRUD">Produto CRUD</string>
+    <string name="home_description_ProdutoCRUD">Permite realizar as operações CRUD com os produtos.</string>
+    <string name="home_button_ProdutoCRUD">Produto</string>
+    <string name="home_text_CarrinhoCRUD">Carrinho CRUD</string>
+    <string name="home_description_CarrinhoCRUD">Permite realizar as operações CRUD com o carrinho.</string>
+    <string name="home_button_CarrinhoCRUD">Carrinho</string>
+
+    <string name="endereco_text">Endereços</string>
+    <string name="endereco_description">Página para gerenciar os endereços</string>
+
+    <string name="endereco_adicionar_text">Adicionar Endereço</string>
+    <string name="endereco_adicionar_description">Preencha todos os campos</string>
+
+    <string name="endereco_editar_text">Editar Endereço</string>
+    <string name="endereco_editar_description">Edite os campos que queira mudar</string>
+
+    <!-- TODO: common endereco resources -->
+    <string name="endereco_input_placeholder">Informação do endereço</string>
+    <string name="endereco_cep_text">Cep</string>
+    <string name="endereco_cep_input_hint">(Ex: 12345678)</string>
+    <string name="endereco_cidade_text">Cidade</string>
+    <string name="endereco_cidade_input_hint">(Ex: Natal)</string>
+    <string name="endereco_estado_text">Estado</string>
+    <string name="endereco_estado_input_hint">(Ex: RN)</string>
+    <string name="endereco_rua_text">Rua</string>
+    <string name="endereco_rua_input_hint">(Ex: Rua Madre Tereza)</string>
+    <string name="endereco_bairro_text">Bairro</string>
+    <string name="endereco_bairro_input_hint">(Ex: Redinha)</string>
+
+    <string name="cliente_text">Clientes</string>
+    <string name="cliente_description">Página para alterar ou deletar clientes</string>
+
+    <string name="cliente_adicionar_text">Adicionar Cliente</string>
+    <string name="cliente_adicionar_description">Preencha todos os campos</string>
+
+    <string name="cliente_editar_text">Editar Cliente</string>
+    <string name="cliente_aditar_description">Edite os campos que queira mudar</string>
+
+    <string name="cliente_detalhes_cliente_text">Cliente</string>
+    <string name="cliente_detalhes_nome_text">Nome:</string>
+    <string name="cliente_detalhes_cpf_text">Cpf:</string>
+    <string name="cliente_detalhes_email_text">E-mail:</string>
+    <string name="cliente_detalhes_senha_text">Senha:</string>
+
+    <!-- TODO: common cliente resources -->
+    <string name="cliente_input_placeholder">Informação do cliente</string>
+    <string name="cliente_nome_text">Nome</string>
+    <string name="cliente_nome_input_hint">(Ex: Leticia Clara Olivera Carvalho)</string>
+    <string name="cliente_cpf_text">Cpf</string>
+    <string name="cliente_cpf_input_hint">(Ex: 12345678911)</string>
+    <string name="cliente_email_text">E-mail</string>
+    <string name="cliente_email_input_hint">(Ex: LeticiaCarvalho@gmail.com)</string>
+    <string name="cliente_senha_text">Senha</string>
+    <string name="cliente_senha_input_hint">(Ex: OoUXTf8F51)</string>
+
+    <string name="vendedor_text">Vendedores</string>
+    <string name="vendedor_description">Página para alterar ou deletar vendedores</string>
+
+    <string name="vendedor_adicionar_text">Adicionar Vendedor</string>
+    <string name="vendedor_adicionar_description">Preencha todos os campos</string>
+
+    <string name="vendedor_editar_text">Editar Vendedor</string>
+    <string name="vendedor_editar_description">Altere os campos que desejar</string>
+
+    <!-- TODO:common vendedor resources -->
+    <string name="vendedor_razaosocial_text">Razão Social</string>
+    <string name="vendedor_razaosocial_input_hint">(Ex: Publicidade e Propaganda Ltda)</string>
+    <string name="vendedor_nomefantasia_text">Nome Fantasia</string>
+    <string name="vendedor_nomefantasia_input_hint">(Ex: Varejo Koga)</string>
+    <string name="vendedor_cnpj_text">Cnpj</string>
+    <string name="vendedor_cnpj_input_hint">(Ex: 12345678911114)</string>
+    <string name="vendedor_email_text">E-mail</string>
+    <string name="vendedor_email_input_hint">(Ex: almoxarifado@gmail.com.br)</string>
+    <string name="vendedor_senha_text">Senha</string>
+    <string name="vendedor_senha_input_hint">(Ex: Hoi0k005sd0515sd151~[´)</string>
+    <string name="vendedor_comissao_text">Comissão</string>
+    <string name="vendedor_comissao_input_hint">(Ex: 16)</string>
+
+    <string name="categoria_text">Categorias</string>
+    <string name="categoria_description">Página para alterar ou deletar categorias</string>
+
+    <string name="categoria_adicionar_text">Adicionar Categoria</string>
+    <string name="categoria_adicionar_description">Preencha todos os campos</string>
+
+    <string name="categoria_editar_text">Editar Categoria</string>
+    <string name="categoria_editar_description">Edite o campo</string>
+
+    <!-- TODO:common categoria resources -->
+    <string name="categoria_nome_text">Nome</string>
+    <string name="categoria_nome_input_hint">(Ex: Eletrodoméstico)</string>
+
+    <string name="produto_text">Produtos</string>
+    <string name="produto_description">Página para alterar ou deletar produtos</string>
+
+    <string name="produto_adicionar_text">Adicionar Produto</string>
+    <string name="produto_adicionar_description">Preencha todos os campos</string>
+
+    <string name="produto_editar_text">Editar Produto</string>
+    <string name="produto_editar_description">Edite os campos que queira</string>
+
+    <!-- TODO:common produto resources -->
+    <string name="produto_input_placeholder">Informação do produto</string>
+    <string name="produto_descricao_text">Descrição</string>
+    <string name="produto_descricao_input_hint">Placa de Vídeo NVIDIA Geforce RTX 4090 Founders Edition</string>
+    <string name="produto_preco_text">Preço</string>
+    <string name="produto_preco_input_hint">12899,99</string>
+    <string name="produto_categoria_text">Categoria:</string>
+    <string name="produto_categoria_select_placeholder">Categoria Selecionada</string>
+    <string name="produto_categoria_error_null_text">É necessário selecionar uma categoria!</string>
+    <string name="produto_categoria_error_unavailable_text">Nenhuma categoria disponível!</string>
+    <string name="produto_vendedor_text">Vendedor:</string>
+    <string name="produto_vendedor_select_placeholder">Vendedor Selecionado</string>
+    <string name="produto_vendedor_error_null_text">É necessário selecionar um vendedor!</string>
+    <string name="produto_vendedor_error_unavailable_text">Nenhum vendedor disponível!</string>
+    <string name="produto_status_text">Status do Produto</string>
+    <string name="produto_imagem_text">Imagem</string>
+    <string name="produto_imagem_select_placeholder">Imagem Selecionada</string>
+    <string name="produto_imagem_error_null_text">É necessário selecionar uma imagem!</string>
+    <string name="produto_imagem_status_ok_text">Imagem carregada com sucesso!</string>
+    <string name="produto_imagem_status_wrong_text">Falha a carregar imagem!</string>
+    <string name="produto_imagem_button_text">Escolher Imagem</string>
+    <string name="produto_upload_button_text">Upload</string>
+
+    <string name="carrinho_text">Carrinhos</string>
+    <string name="carrinho_description">Página para alterar ou deletar carrinhos</string>
+
+    <string name="carrinho_adicionar_text">Adicionar um Carrinho</string>
+    <string name="carrinho_adicionar_description">Preencha todos os campos</string>
+
+    <string name="carrinho_editar_text">Editar Carrinho</string>
+    <string name="carrinho_editar_description">Edite os campos que queira</string>
+
+    <string name="carrinho_detalhes_produtos_text">Produtos no Carrinho</string>
+
+    <!-- TODO:common carrinho resources -->
+    <string name="carrinho_input_placeholder">Informação do carrinho</string>
+    <string name="carrinho_data_pedido_text">Data do Pedido</string>
+    <string name="carrinho_valor_total_text">Valor Total</string>
+    <string name="carrinho_status_text">Status do Pedido</string>
+    <string name="carrinho_cliente_text">Cliente:</string>
+    <string name="carrinho_cliente_select_placeholder">Cliente Selecionado</string>
+    <string name="carrinho_cliente_error_null_text">É necessário selecionar um cliente!</string>
+    <string name="carrinho_cliente_error_unavailable_text">Nenhum cliente disponível!</string>
+    <string name="carrinho_produto_text">Produtos:</string>
+    <string name="carrinho_produto_select_placeholder">Produtos Selecionados</string>
+    <string name="carrinho_produto_error_null_text">É necessário selecionar ao menos 1 produto!</string>
+    <string name="carrinho_produto_error_unavailable_text">Nenhum produto disponível!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_endereco_adicionar">activityEnderecoAdicionar</string>
+</resources>

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\Documents\\Central Repos\\Multi_Platform\\MABD_Venda\\MABD_Venda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A962B1-5A28-4426-B3F1-247876D265C2}|DBConnection\\DBConnection.csproj|c:\\users\\marco\\documents\\central repos\\multi_platform\\mabd_venda\\mabd_venda\\dbconnection\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A962B1-5A28-4426-B3F1-247876D265C2}|DBConnection\\DBConnection.csproj|solutionrelative:dbconnection\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConexaoBD.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Documents\\Central Repos\\Multi_Platform\\MABD_Venda\\MABD_Venda\\DBConnection\\ConexaoBD.cs",
+              "RelativeDocumentMoniker": "DBConnection\\ConexaoBD.cs",
+              "ToolTip": "C:\\Users\\marco\\Documents\\Central Repos\\Multi_Platform\\MABD_Venda\\MABD_Venda\\DBConnection\\ConexaoBD.cs",
+              "RelativeToolTip": "DBConnection\\ConexaoBD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T00:53:39.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

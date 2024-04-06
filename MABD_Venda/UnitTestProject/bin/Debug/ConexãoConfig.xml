@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<StringsConexao>
+	<String1>Data Source=DESKTOP-DG0SQ7G\SQLEXPRESS;Initial Catalog=BD_MARKETPLACE;Integrated Security=True</String1>
+</StringsConexao>

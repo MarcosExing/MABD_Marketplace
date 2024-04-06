@@ -1,0 +1,22 @@
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\DAL\bin\Debug\DAL.dll
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\DAL\bin\Debug\DAL.pdb
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\DAL\bin\Debug\Model.dll
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\DAL\bin\Debug\Model.pdb
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\DAL\obj\Debug\DAL.dll
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\DAL\obj\Debug\DAL.pdb
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\DAL\bin\Debug\DBConnection.dll
+C:\Users\marco\Documents\Central Repos\Web\Visual Studio\MABD_Venda\DAL\bin\Debug\DBConnection.pdb
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\DAL\bin\Debug\DAL.dll
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\DAL\bin\Debug\DAL.pdb
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\DAL\bin\Debug\DBConnection.dll
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\DAL\bin\Debug\Model.dll
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\DAL\bin\Debug\DBConnection.pdb
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\DAL\bin\Debug\Model.pdb
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\DAL\obj\Debug\DAL.dll
+C:\Users\marco\Documents\Central Repos\Multi_Platform\MABD_Venda\MABD_Venda\DAL\obj\Debug\DAL.pdb
